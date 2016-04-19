@@ -1,0 +1,189 @@
+/*font-family: 'Shadows Into Light', cursive;
+ font-family: 'Indie Flower', cursive;
+*/
+
+#contenidos{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	<!--   Posicion de la Pagina... -->
+
+}
+
+
+/*ETIQUETAS*/
+body{
+background-image: url(../img/huellitas.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+<!--    fondo... -->
+}
+nav{
+font-family: 'Arial', cursive;
+color: green;
+margin-left: 100px;
+font-size: 20px;
+text-align: center;
+
+}
+
+h1{
+font-family: 'Arial', normal;
+color: green;
+margin-left: 10px;
+font-size: 60px;
+text-align: center; 
+<!--   titulo principal... -->
+
+}
+
+h2{
+font-family: 'Arial', normal;
+color: black;
+margin-left: 10px;
+font-size: 20px;
+text-align: left; 
+<!--  letra de ayudanos a ayudar... -->
+}
+
+h3{
+font-family: 'Arial', cursive;;
+color: green;
+font-size: 32px;
+text-align: center; 
+background color;
+<!--  letra de derechos reservados... -->
+}
+
+
+header{
+width: 1000px;
+	height: 120 px;
+	background: rgba(255, 255, 255, 10,70);
+	<!--  Ubicacion... -->
+}
+
+nav{
+width: 700px;
+height: 2px;
+background: lightgreen;
+margin: left;
+<!--   Linea de fondo... -->
+border-radius:px;
+
+}
+ul{
+margin: center;
+padding-top: 20px;
+<!--   Distancia recuadro de los link... -->
+}
+}
+ul{
+margin: center;
+padding-top: 20px;
+<!--   Distancia recuadro de los link... -->
+}
+li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	background: green;
+	margin: 3px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px black inset; 
+<!--   Recuadro de los link... -->
+}
+
+section{
+	width: 700px;
+	background:;
+	height: 600px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+<!--   fondo... -->
+}
+aside{
+
+	width: 280px;
+background: ;
+	background:;
+	height: 600px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 5px;
+	<!--   Recuadro derecho... -->
+}
+}
+
+footer{
+width: 100px;
+height: 70px;
+background color: maroon;
+float: left;
+margin-top: 20px;
+border-radius: 10px;
+margin-bottom: 20px; 
+}
+
+p{
+
+	font-size: 15px;
+	font-weight: small;
+	line-height: 24px;
+	padding: 10px;
+	margin-bottom:5m;
+	text-align: justify;
+	text-color:white;
+}
+
+img{
+	width: 200px;
+	height: 10;
+	margin: cente;
+	position: center;
+	font-size: 10px;
+	font-weight: 10;
+	line-height: 24px;
+	padding: 10px;
+	text-align: center;
+	margin-top: 10px;
+border-radius: 10px;
+margin-bottom: 20px;
+
+
+
+}
+
+
+/*CLASES*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:active{color: white; text-decoration: none;}
+
+/*SEUDO CLASES*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
